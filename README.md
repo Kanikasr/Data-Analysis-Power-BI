@@ -20,21 +20,15 @@ The dataset from the CFSAN Adverse Event Reporting System (CAERS) is a comprehen
 ## Conclusion-
 1. Comprehensive Data Understanding:
 The CAERS dataset provided deep insights into adverse event patterns related to food, cosmetics, and dietary supplements reported to the FDA from 2004 to 2017.
-
 2. Effective Data Transformation:
 Using Power BI’s Power Query, raw data was cleaned, standardized, and enriched by creating new columns such as Created Date, Event Start Date, and Age in Years — enabling accurate analysis and visualization.
-
 3. Structured Data Modeling:
 A proper data model following a star schema was implemented, ensuring efficient relationships between key tables and enabling smooth DAX calculations.
-
 4. Insightful Visual Dashboards:
 Multiple interactive dashboards were created — covering product and industry trends, demographic distribution, symptom frequency, and adverse outcome patterns — helping identify key public health insights.
-
 5. Identification of Risk Patterns:
 Analysis revealed which product categories and brands were most associated with adverse events, as well as demographic trends like higher reporting among certain age groups and genders.
-
 6. Real-World Relevance:
 The project demonstrated how Power BI can support regulatory monitoring, consumer safety, and data-driven decision-making in public health sectors.
-
 7. Learning and Skill Development:
 The project enhanced our understanding of data cleaning, DAX formulas, modeling, and visualization, showcasing the power of analytics tools in transforming raw data into meaningful insights.
