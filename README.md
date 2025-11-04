@@ -1,4 +1,8 @@
 # Adverse Event Reporting in the Food and Cosmetics Industry- The CAERS database
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d2e8d546-6a5b-4ba8-9dd0-9dc9f96b58a8" />
+
+
 ## Objective-
 The primary objective of analyzing the CFSAN Adverse Event Reporting System (CAERS) dataset is to gain a comprehensive understanding of adverse events associated with foods, dietary supplements, and cosmetics as reported to the FDA. This analysis aims to identify patterns and trends in these events, including the distribution across different product categories, the demographic characteristics of those affected, and the types and severities of reported symptoms and outcomes. By exploring these aspects, the analysis seeks to contribute valuable insights for enhancing product safety surveillance, informing regulatory policies, and ultimately improving public health outcomes by identifying potential risks and areas for intervention in the industries of food, dietary supplements, and cosmetics.
 
@@ -16,6 +20,9 @@ The dataset from the CFSAN Adverse Event Reporting System (CAERS) is a comprehen
 9. CI_Gender: Gender of the individual.
 10. AEC_One Row Outcomes: Describes the outcomes of the event, such as hospitalization, ER visit, or non-serious injuries/illness.
 11. SYM_One Row Coded Symptoms: Lists the symptoms reported in association with the adverse event.
+
+<img width="1517" height="856" alt="Screenshot 2025-11-04 175831" src="https://github.com/user-attachments/assets/6412f756-3122-4031-b216-3b936e186973" />
+
 
 ## Conclusion-
 1. Comprehensive Data Understanding:
